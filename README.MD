@@ -23,7 +23,7 @@ Exclusive and free program by Rocketseat to teach WEB technologies. <br/>
 <br>
 
 <p align="center">
-  <img alt="DevLinks project preview" src=".github/preview.jpg" width="100%">
+  <img alt="DevLinks project preview" src=".github/Cover.jpg" width="100%">
 </p>
 
 ## 🔗 Access the live project
