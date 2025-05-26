@@ -1,6 +1,6 @@
 > 🇧🇷 Leia esta documentação em [português](./README.pt.md)
 
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> WidneyLinks </h1>
 
 <p align="center">
 Exclusive and free program by Rocketseat to teach WEB technologies.
