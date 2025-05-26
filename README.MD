@@ -1,6 +1,6 @@
 > 🇧🇷 Leia esta documentação em [português](./README.pt.md)
 
-<h1 align="center"> WidneyLinks </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
 Exclusive and free program by Rocketseat to teach WEB technologies.
@@ -36,13 +36,13 @@ This project was developed using:
 
 ## 💻 Project
 
-WidneyLinks is a personal link aggregator you can use as an online business card.
+DevLinks is a personal link aggregator you can use as an online business card.
 
 ## 📘 Learnings
 
 This was my **first real project using HTML, CSS, and JavaScript**, and it marked an important milestone in my journey as a web developer.
 
-With WidneyLinks, I learned how to:
+With DevLinks, I learned how to:
 
 - Structure semantic HTML;
 - Apply and organize CSS styles;
