@@ -3,8 +3,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Clique aqui para assistir ao curso em vídeo.</a>
+Programa exclusivo e gratuito da Rocketseat para ensinar tecnologias WEB.
 </p>
 
 <p align="center">
@@ -17,65 +16,56 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="Licença" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto DevLinks" src=".github/Cover.jpg" width="100%">
-</p>
-
-## 🔗 Acesse o projeto online
-
-<p align="center">
-  <a href="https://widneyleme.github.io/devlinks" target="_blank">
-    <img alt="Deploy GitHub Pages" src="https://img.shields.io/badge/Visualizar%20online-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <img alt="Prévia do projeto DevLinks" src=".github/Cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS  
+- HTML & CSS  
 - JavaScript  
-- Git e GitHub  
+- Git & GitHub  
 - Figma  
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+DevLinks é um agregador de links pessoal que pode ser usado como um cartão de visitas online.
 
 ## 📘 Aprendizados
 
-Esse foi meu **primeiro projeto real com HTML, CSS e JavaScript**, e marcou um momento especial na minha jornada como desenvolvedor web.
+Esse foi meu **primeiro projeto real usando HTML, CSS e JavaScript**, e marcou um passo importante na minha jornada como desenvolvedor web.
 
 Com o DevLinks, aprendi a:
 
-- Estruturar um HTML semântico;
-- Organizar e aplicar estilos com CSS;
+- Estruturar HTML semântico;
+- Aplicar e organizar estilos com CSS;
 - Adicionar interatividade com JavaScript puro;
 - Criar layouts responsivos;
-- Usar Git para versionar e publicar com GitHub;
-- Seguir e implementar um design no Figma.
+- Utilizar Git para controle de versão e publicar com GitHub;
+- Seguir e implementar um layout do Figma.
 
-Me orgulho do resultado e estou ainda mais motivado a continuar estudando e evoluindo!
+Estou orgulhoso do resultado e motivado a continuar evoluindo e criando novos projetos!
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto por [ESTE LINK](https://www.figma.com/community/file/1187422022288947321).  
-É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o design do projeto [NESTE LINK](https://www.figma.com/community/file/1187422022288947321).  
+É necessário ter uma conta no [Figma](https://figma.com) para acessá-lo.
 
-## 💡 Como rodar este projeto localmente
+## 💡 Como rodar este projeto
 
 ```bash
-# Clone o repositório
+# Clone este repositório
 git clone https://github.com/widneyleme/devlinks.git
 
 # Acesse a pasta
 cd devlinks
 
-# Abra o arquivo index.html no navegador
+# Abra o arquivo index.html no seu navegador
+# Ou use a extensão Live Server, se estiver utilizando o VS Code

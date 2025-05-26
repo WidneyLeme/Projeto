@@ -3,8 +3,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Exclusive and free program by Rocketseat to teach WEB technologies. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Click here to watch the full course in video format.</a>
+Exclusive and free program by Rocketseat to teach WEB technologies.
 </p>
 
 <p align="center">
@@ -26,14 +25,6 @@ Exclusive and free program by Rocketseat to teach WEB technologies. <br/>
   <img alt="DevLinks project preview" src=".github/Cover.jpg" width="100%">
 </p>
 
-## 🔗 Access the live project
-
-<p align="center">
-  <a href="https://widneyleme.github.io/devlinks" target="_blank">
-    <img alt="Deploy GitHub Pages" src="https://img.shields.io/badge/View%20Live%20Project-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
 ## 🚀 Technologies
 
 This project was developed using:
@@ -46,8 +37,6 @@ This project was developed using:
 ## 💻 Project
 
 DevLinks is a personal link aggregator you can use as an online business card.
-
-- [Watch the full lessons](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 📘 Learnings
 
@@ -79,3 +68,4 @@ git clone https://github.com/widneyleme/devlinks.git
 cd devlinks
 
 # Open the index.html file in your browser
+# Or use a Live Server extension if you're using VS Code
