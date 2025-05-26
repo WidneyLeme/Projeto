@@ -1,4 +1,4 @@
-> 🇺🇸 Read this documentation in [English](./README.md)
+> 🇺🇸 Read this documentation in [English](./README.MD)
 
 <h1 align="center"> DevLinks </h1>
 
