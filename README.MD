@@ -36,13 +36,13 @@ This project was developed using:
 
 ## 💻 Project
 
-DevLinks is a personal link aggregator you can use as an online business card.
+WidneyLinks is a personal link aggregator you can use as an online business card.
 
 ## 📘 Learnings
 
 This was my **first real project using HTML, CSS, and JavaScript**, and it marked an important milestone in my journey as a web developer.
 
-With DevLinks, I learned how to:
+With WidneyLinks, I learned how to:
 
 - Structure semantic HTML;
 - Apply and organize CSS styles;
